@@ -77,3 +77,5 @@ XAMPP
 Penutup
 
 Aplikasi Sistem Pendataan Buku Perpustakaan ini dibuat untuk memenuhi tugas Ujian Akhir Semester Mata Kuliah Pemrograman We
+
+ssitem pengerjaanya di bantu oleh chat gpt untuk membantu dalam pengerjaannya 
